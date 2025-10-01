@@ -1,0 +1,43 @@
+
+body {
+    background-color: #f0f8ff; 
+}
+
+header {
+    background-color: #004d40; 
+    color: white;              
+}
+
+
+h2 {
+    background-color: #e0f2f1; 
+    color: #00332e;            
+}
+
+
+section {
+    background-color: white;   
+}
+
+
+footer {
+    background-color: #333; 
+    color: white;           
+}
+
+
+nav a {
+    background-color: transparent; 
+    color: white;                  
+}
+
+
+table {
+    background-color: #f5f5dc; 
+}
+
+
+th {
+    background-color: #00695c; 
+    color: white;              
+}
